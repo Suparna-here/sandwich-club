@@ -1,4 +1,4 @@
-# Sandwich Club Project Starter Code
+# Sandwich Club Project
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
@@ -18,9 +18,16 @@ Through this project, you will:
 - Design an activity layout
 - Populate all fields in the layout accordingly
 
-## How Do I Complete this Project?
-Download the [Sandwich Club app starter code.](https://github.com/udacity/sandwich-club-starter-code)
+## Used Libraries
+*   [Android support Library](https://developer.android.com/topic/libraries/support-library)
+*   [Picasso](https://github.com/square/picasso) - for loading and caching images 
+*   [Retrofit 2](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc. 
 
-Design the layout for the detail activity so the different elements
-display in a sensible way. Implement the JSON parsing in JsonUtils so it
-produces a Sandwich Object that can be used to populate the UI that you designed.
+## Screen Shots
+## Phone
+### Sandwich Listing
+<img src="https://github.com/Suparna-here/sandwich-club/blob/master/ScreenShots/Phone/MovieListing.png" width="40%" />
+
+### Sandwich In Detail
+<img src="https://github.com/Suparna-here/sandwich-club/blob/master/ScreenShots/Phone/MovieInDetail.png" width="40%" />
+
