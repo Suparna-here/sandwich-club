@@ -26,8 +26,8 @@ Through this project, you will:
 ## Screen Shots
 ## Phone
 ### Sandwich Listing
-<img src="https://github.com/Suparna-here/sandwich-club/blob/master/ScreenShots/Phone/MovieListing.png" width="40%" />
+<img src="https://github.com/Suparna-here/sandwich-club/blob/master/ScreenShots/Phone/SandwichList.png" width="40%" />
 
 ### Sandwich In Detail
-<img src="https://github.com/Suparna-here/sandwich-club/blob/master/ScreenShots/Phone/MovieInDetail.png" width="40%" />
+<img src="https://github.com/Suparna-here/sandwich-club/blob/master/ScreenShots/Phone/SandwichInDetail.png" width="40%" />
 
